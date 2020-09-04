@@ -10,10 +10,23 @@ Instead of building best possible classification model or predictive model, our 
 2. and then set their own values of hyperparameters so that the users can learn which alogortihms fits best by adjustinf the hyperparameters. 
 3. Users can also choose Evaluation matrix.
 
-# This project covers:
+# Implementation Workflow:
+1. Project Overview and Demo
 
-Build interactive web applications with Streamlit and Python
+2. Turn Simple Python Scripts into Web Apps
 
-Train Logistic Regression, Random Forest, and Support Vector Classifiers using scikit-learn
+3. Load the Mushrooms Data Set
 
-Plot evaluation metrics for above binary classification algorithms
+4. Creating Training and Test Sets
+
+5. Plot Evaluation Metrics
+
+6. Training a Support Vector Classifier
+
+7. Training a Support Vector Classifier (Part 2)
+
+8. Train a Logistic Regression Classifier
+
+9. Training a Random Forest Classifier
+
+
